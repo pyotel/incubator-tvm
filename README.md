@@ -47,4 +47,4 @@ We learned a lot from the following projects when building TVM.
 - [Theano](https://github.com/Theano/Theano): the design inspiration of symbolic scan operator for recurrence.
 
 ## Just Executing
-https://github.com/pyotel/incubator-tvm/blob/master/tutorials/JUST_EXECUTING.md
+https://github.com/pyotel/incubator-tvm/blob/master/tutorials/just_exe/JUST_EXECUTING.md
